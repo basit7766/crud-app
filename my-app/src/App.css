@@ -1,17 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
 
 body {
-    background: #e6e6e6; /* Light gray background */
+    background: #e6e6e6; 
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #3b3b3b; /* Dark text color */
+    color: #3b3b3b;
 }
 
 .container {
-    background: linear-gradient(45deg, #b0bec5, #eceff1); /* Gradient background */
+    background: linear-gradient(45deg, #b0bec5, #eceff1); 
     border-radius: 10px;
     padding: 10px;
     width: 75vw;
